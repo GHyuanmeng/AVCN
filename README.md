@@ -1,4 +1,4 @@
-# AVCN
+# AVCNet
 Audio-Visual Consistency Network（AVCN）
 # Dependencies
 ###### GTX2080Ti
